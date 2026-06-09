@@ -568,7 +568,6 @@ footer strong { color: var(--text); }
     </div>
   </section>
 
-</div>
 
 <footer>
   <div class="container">
