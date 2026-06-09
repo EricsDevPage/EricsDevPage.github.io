@@ -564,8 +564,10 @@ footer strong { color: var(--text); }
       </div>
 
       </div>
-    </div>
+  
   </section>
+
+</div>
 
 <footer>
   <div class="container">
