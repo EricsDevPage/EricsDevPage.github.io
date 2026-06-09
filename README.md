@@ -564,7 +564,7 @@ footer strong { color: var(--text); }
         <span class="contact-val">Available on request — ARP-336 OST, Gemstone EPs, Labyrinth of Rage OST</span>
       </div>
 
-      </div>
+      
     </div>
   </section>
 
