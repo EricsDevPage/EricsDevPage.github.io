@@ -264,7 +264,6 @@ footer strong { color: var(--text); }
     <div class="stats-row">
       <div class="stat"><span class="stat-val">17</span><span class="stat-label">Years Creating</span></div>
       <div class="stat"><span class="stat-val">100+</span><span class="stat-label">Released Tracks</span></div>
-      <div class="stat"><span class="stat-val">5</span><span class="stat-label">Civilizations Scored</span></div>
       <div class="stat"><span class="stat-val">1</span><span class="stat-label">Shipped Steam Game</span></div>
     </div>
     <div class="btn-row">
@@ -565,6 +564,7 @@ footer strong { color: var(--text); }
       </div>
   </section>
 
+</div>
 
 <footer>
   <div class="container">
